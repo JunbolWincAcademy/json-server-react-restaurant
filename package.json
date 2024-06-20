@@ -1,0 +1,14 @@
+{
+  "name": "json-server-react-restaurant",
+  "version": "1.0.0",
+  "description": "Recipes",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch data.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "author": "Junier Bolivar",
+  "license": "ISC"
+}
