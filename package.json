@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch data.json --port $PORT"
+    "start": "json-server --watch data.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^0.16.3"
